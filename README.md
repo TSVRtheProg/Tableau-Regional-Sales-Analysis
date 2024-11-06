@@ -23,25 +23,33 @@ Sales performance analysis is critical to strategic planning. As a data analyst,
    1. Sales Performance Parameters
       
       Create Parameters: To make region selection easier, create parameters for both the Primary and Secondary Regions.
+      
       Calculated Fields: Filter and compare data based on the regions you've selected.
+      
       Sales Visualization: Display total sales for both regions in separate worksheets for easy comparison.
       
-   2. Average Sales and Order Statistics
+   3. Average Sales and Order Statistics
       
       Average Sales Per Order: Create a worksheet to calculate and compare average sales per order in both regions.
+      
       Total number of orders: Count and display the number of orders for each region.
+      
       Filters: Use region filters to ensure that the data displayed is relevant to the specified regions.
 
-   3. Customer and Product Analysis.
+   5. Customer and Product Analysis.
       
       Customer Count: Make a worksheet to keep track of the number of unique customers in each region.
+      
       Products Sold: Create a worksheet that displays the number of distinct products sold by region.
+      
       Filters: Apply region-specific filters to ensure accurate data analysis.
       
-   4. Comparative Analysis.
+   7. Comparative Analysis.
       
       Create a dashboard: Organize all of the worksheets into a single, cohesive dashboard.
+      
       Partitioning the dashboard: Use containers to neatly separate the dashboard into sections, one for each region.
+      
       Interactive Controls: Include parameter controls that allow users to dynamically select different regions, updating the visualizations real time.
 
 ## Expected Results:
